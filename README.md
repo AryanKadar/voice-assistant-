@@ -2,8 +2,7 @@
 voice assistant using python
 Hello everyone,
 	
-	Here is new project that is used in our daily life ,we call this by many name like siri,alexa
-etc. I have made a very basic model of voice assistant that has many feature.
+	Here is new project that is used in our daily life ,we call this by many name like siri,alexa etc. I have made a very basic model of voice assistant that has many feature.
 
 	1.The job of voice assistant is to do the task that the person ask them to do.
 	
