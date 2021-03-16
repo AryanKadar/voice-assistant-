@@ -7,20 +7,13 @@ etc. I have made a very basic model of voice assistant that has many feature.
 
 	1.The job of voice assistant is to do the task that the person ask them to do.
 	
-	2.There are two assistant in this program(Male assistant-David,female assistant) that are in service to help user to make life little easy.The assistant 
-can be change any time user want to them to change.
+	2.There are two assistant in this program(Male assistant-David,female assistant) that are in service to help user to make life little easy.The assistant can be change any time user want to them to change.
 	
-	3.There are many small feature that this voice assistant has such open and ask what they want to search on youtube,google and wikipedia.
-Also it also open gmail for user.It also greets (good morning,good afternoon,good evening and good day)you according to the time of that day.
+	3.There are many small feature that this voice assistant has such open and ask what they want to search on youtube,google and wikipedia.Also it also open gmail for user.It also greets (good morning,good afternoon,good evening and good day)you according to the time of that day.
 	
-	4.It can tell time of 20 different (India,america,europe,australia,brazil,canada,egypt,hong kong,iceland,iran,israel
-,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) also shows the time of some city or state where 
-daylight saving time is applied.
+	4.It can tell time of 20 different (India,america,europe,australia,brazil,canada,egypt,hong kong,iceland,iran,israel,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) also shows the time of some city or state where daylight saving time is applied.
 
-	5.The last and the most important feature is the program can send mail(by asking subject,content and mail of person 
-you want to send),this feature can rectify user mistake by adding "@gmail.com" at end if user forget to say and also it doesn't
-proceed of sending mail unless it get second confirmation from user by asking the user if the subject ,content or mail of person is
-correct or not.  
+	5.The last and the most important feature is the program can send mail(by asking subject,content and mail of person you want to send),this feature can rectify user mistake by adding "@gmail.com" at end if user forget to say and also it doesn'tproceed of sending mail unless it get second confirmation from user by asking the user if the subject ,content or mail of person is correct or not.  
 
 
 How to execute:
