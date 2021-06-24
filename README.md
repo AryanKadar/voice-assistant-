@@ -34,9 +34,11 @@ What task you can say:
 		6.Then ask for anything and continue by saying wikipedia it will give you short 2 sentence summary about that.
 		7.Ask "change voice assistant" as their are two assistant it will give you description(only once) about voice assistant available and who are they then it will ask do you want to change to that voice assistant or keep default.
 		8.Ask "change name" and tell name in order to change name.
-		9.Ask them "time" plus "place"(america,europe,australia,brazil,canada,egypt,hong kong,iceland,iran,israel,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) or if you ask only time it will give time of India.
-		10.Ask "send mail" then it will ask  to whom do you want to send then say email of person and after that it ask if the mail is correct or not or would you like to change,then it will say whether the content you want to sent or you would 
-		like to change and at last it will ask to add subject or not if said yes it ask and confirm the subject or if said no it will not include subject.Then at last it will send mail to the person.
-		11.To end the program say "bye".
+		9.If you want to pause the va then just say "pause" and the program will wait until you say "resume".
+		10.Ask them "time" plus "place"(america,europe,australia,brazil,canada,egypt,hong
+		kong,iceland,iran,israel,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) or if you ask only time it will give time of India.
+		11.Ask "send mail" then it will ask  to whom do you want to send then say email of person and after that it ask if the mail is correct or not or would you like to change,then it will say whether the content you want to sent or you would like to change and at last it will ask to add subject or not if said yes it ask and confirm the subject or if said no it will not include subject.Then at last it will send mail to the person.
+		12.If you want to set reminder then just say "set reminder" then it will ask for day,date and content of reminder this part also work as send mail by assuring is the day,date and content is correct or not is yes then continue else ask again . The reminder also remember the reminder as you reboot or shutdown pc and then boot up the pc as start up program which will run in background.There are two type of reminder one on time reminder and missed reminder for both it will show notification for which you have to click on notification to set off the reminder or else it will keep on going. 
+		13.To end the program say "bye".
 
 	
