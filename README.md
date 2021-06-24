@@ -9,6 +9,7 @@ Hello everyone,
 	2.There are two assistant in this program(Male assistant-David,female assistant) that are in service to help user to make life little easy.The assistant can be change any time user want to them to change.
 	
 	3.There are many small feature that this voice assistant has such open and ask what they want to search on youtube,google and wikipedia.Also it also open gmail for user.It also greets (good morning,good afternoon,good evening and good day)you according to the time of that day.
+	You can also pause and resume the va anytime you want.
 	
 	4.It can tell time of 20 different (India,america,europe,australia,brazil,canada,egypt,hong kong,iceland,iran,israel,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) also shows the time of some city or state where daylight saving time is applied.
 
