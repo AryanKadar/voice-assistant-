@@ -21,7 +21,7 @@ How to execute:
 			2.Type "va_gui.py" in your python environment.
 			3.For sending mail change the Email on line 19 with your own email and also before all that you to google "less secure app" and click on first link and turn off "Allow less secure app"
 			4.Also on line 16 and 17 of "va.py" file in front of "Email" and "Pass" type your own email and pass.
-			5.Make and empty text file and name the file has "namee.txt".
+			5.Goto Search->run->%AppData%->Microsoft->Windows->start Menu->Programs->Startup and paste start_rem.bat that has been decompressed from fyc.rar and also let there be one more copy of start_rem.bat at folder where every thing is stored. 
 
 What task you can say:
 		
