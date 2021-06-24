@@ -12,7 +12,7 @@ Hello everyone,
 	
 	4.It can tell time of 20 different (India,america,europe,australia,brazil,canada,egypt,hong kong,iceland,iran,israel,jamaica,japan,libya,mexico,singapore,turkey,atlantic,portugal,poland,asia) also shows the time of some city or state where daylight saving time is applied.
 
-	5.The last and the most important feature is the program can send mail(by asking subject,content and mail of person you want to send),this feature can rectify user mistake by adding "@gmail.com" at end if user forget to say and also it doesn'tproceed of sending mail unless it get second confirmation from user by asking the user if the subject ,content or mail of person is correct or not.  
+	5.There are many important feature in the program such as send mail(by asking subject,content and mail of person you want to send),this feature can rectify user mistake by adding "@gmail.com" at end if user forget to say and also it doesn'tproceed of sending mail unless it get second confirmation from user by asking the user if the subject ,content or mail of person is correct or not.Setting reminder(by asking day,date and content of reminder) and also after pc is rebooted the reminder will still remember by run in backend has start up app.
 
 
 How to execute:
